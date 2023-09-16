@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Axon client for Vanis.io - BETA
+// @name         Axon client for Vanis.io - BETA v1
 // @version      1.0.0
 // @author       Aero
 // @match        *://vanis.io/axon-beta
